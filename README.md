@@ -50,9 +50,6 @@ All projects here are for *educational and research purposes only* and performed
 
 ---
 
-#### 🇮🇱 הערות נוספות (עברית קצרה)
----
-
 #### 📎 Additional Notes
 You can also view my professional profile and resume here:  
 - [🔗 Visit my LinkedIn Profile](https://www.linkedin.com/in/hannasolomonov/)
