@@ -33,7 +33,9 @@ Python • Linux • Kali • Nmap • Wireshark • Burp Suite • Docker • C
   Issued by [Ecom School, e.g., "The Standards Institution of Israel" or "ISO Certification Authority"]  
 - *Cyber & Information Security Program Graduate* – Faculty of Technology, 2024 
 - - *ISO 27001:2024 Certification* – Information Security Management Systems  
-  [📄 View Certificate](./file:///C:/Users/hanna/Downloads/%D7%93%D7%99%D7%A4%D7%9C%D7%95%D7%9E%D7%94%20%D7%97%D7%A0%D7%94%20%D7%A1%D7%95%D7%9C%D7%95%D7%9E%D7%95%D7%A0%D7%95%D7%91%20(4).pdf)
+You can also view my professional profile and certifications here:  
+- [📄 View ISO 27001 Certificate (PDF)](./דיפלומה%20חנה%20סולומונוב%20(4).pdf)  
+- [🔗 Visit my LinkedIn Profile](https://www.linkedin.com/in/hannasolomonov)
 
 ---
 
