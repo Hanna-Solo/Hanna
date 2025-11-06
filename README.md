@@ -33,7 +33,7 @@ Python • Linux • Kali • Nmap • Wireshark • Burp Suite • Docker • C
 - *Cyber & Information Security Program Graduate* – Faculty of Technology, 2024 
 - - *ISO 27001:2024 Certification* – Information Security Management Systems  
 You can also view my professional profile and certifications here:  
-- [📄 View ISO 27001 Certificate (PDF)]-(./Hanna_Solomonov_Diploma.pdf) 
+- - [📄 View Offensive Security Expert Certificate (PDF)](./Hanna_Solomonov_Diploma.pdf)
 - [🔗 Visit my LinkedIn Profile](https://www.linkedin.com/in/hannasolomonov)
 
 ---
