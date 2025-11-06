@@ -1,8 +1,7 @@
 # 👋 Hanna Solomonov — Cyber & InfoSec Enthusiast
 
 ### About / מי אני
-I’m *Hanna Solomonov, a Cybersecurity graduate focused on **offensive security, **vulnerability research* and CTF challenges.  
-אני בוגרת/לומדת לימודי סייבר ואבטחת מידע, מתמקדת ב-penetration testing ובאיתור חולשות בסביבות מעבדה מבוקרות.
+I’m *Hanna Solomonov, a Cybersecurity graduate focused on **offensive security, **vulnerability research* and CTF challenges.
 
 ---
 
