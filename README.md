@@ -11,7 +11,11 @@ Currently focused on learning attack techniques, building isolated labs, and exp
 
 🎓 *Certified in Offensive Security Expert* (ECOM School | ISO 9001:2015)  
 📄 [View Certificate (PDF)](https://github.com/Hanna-Solo/Hanna/blob/main/Hanna_Solomonov_Diploma.pdf)
-
+<p align="center">
+  <a href="https://github.com/Hanna-Solo/Hanna/blob/main/Hanna_Solomonov_Diploma.pdf">
+    <img src="https://github.com/Hanna-Solo/Hanna/blob/main/Hanna_Solomonov_Diploma.pdf" width="400px" alt="Hanna Solomonov Diploma"/>
+  </a>
+</p>
 ---
 
 ### 🧰 Languages & Tools
