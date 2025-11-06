@@ -40,7 +40,7 @@ You can also view my professional profile and certifications here:
 
 ### 📬 Contact / יצירת קשר
 - Email: hannasolo87@gmail.com 
-- LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/hannasolomonov/)  
+- LinkedIn: (https://www.linkedin.com/in/hannasolomonov/)  
 > Prefer responsible disclosure via email. I do not publish exploit code or target live systems.
 
 ---
