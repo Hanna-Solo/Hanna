@@ -1,57 +1,51 @@
 # 👋 Hanna Solomonov — Cyber & InfoSec Enthusiast
 
-### About / מי אני
-I’m *Hanna Solomonov, a Cybersecurity graduate focused on **offensive security, **vulnerability research* and CTF challenges.
+<h1 align="center">👋 Hey, I'm Hanna Solomonov</h1>
+<h3 align="center">💻 Cybersecurity & InfoSec Enthusiast | ISO Certified</h3>
 
 ---
 
-### 🔍 What I do / מה אני עושה
-- Build and run isolated lab environments (Docker / Vagrant)  
-- Solve CTF challenges & write detailed, educational writeups  
-- Analyze intentionally vulnerable apps (OWASP Juice Shop, DVWA) — document root causes and mitigations  
-- Share safe tools and automation for analysis and logging (no exploit code)
+### 🧠 About Me
+I’m a *Cybersecurity graduate* passionate about *Offensive Security, **Penetration Testing, and **Vulnerability Research*.  
+Currently focused on learning attack techniques, building isolated labs, and exploring system vulnerabilities in ethical and controlled environments.
+
+🎓 *Certified in Offensive Security Expert* (ECOM School | ISO 9001:2015)  
+📄 [View Certificate (PDF)](https://github.com/Hanna-Solo/Hanna/blob/main/Hanna_Solomonov_Diploma.pdf)
 
 ---
 
-### 🛠 Skills & Tools / כלים וכישורים
-Python • Linux • Kali • Nmap • Wireshark • Burp Suite • Docker • CTF
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00599C?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-### 📁 Featured repositories / ריפוזיטוריז מומלצים
-- ctf-writeups — CTF writeups and lessons learned  
-- vulnerable-app-analysis — lab analyses & mitigation recommendations  
-- lab-setup — reproducible lab (docker / vagrant)  
-- tools-summaries — short guides for common tools  
-(I pin the most representative repos here — see my pinned repos on my profile.)
+### 🧩 Projects & Labs
+📁 [*lab-setup*](https://github.com/Hanna-Solo/lab-setup) — Isolated cybersecurity lab for ethical hacking and pentesting practice.  
+📁 *ctf-writeups* — Coming soon! CTF challenge writeups and vulnerability research notes.
 
 ---
 
-### 🧾 Certifications / תעודות
-- *ISO 27001:2024 Certification* – Information Security Management Systems  
-  Issued by [Ecom School, e.g., "The Standards Institution of Israel" or "ISO Certification Authority"]  
-- *Cyber & Information Security Program Graduate* – Faculty of Technology, 2024 
-- - *ISO 27001:2024 Certification* – Information Security Management Systems  
-You can also view my professional profile and certifications here:  
-- - [📄 View Offensive Security Expert Certificate (PDF)](./Hanna_Solomonov_Diploma.pdf)
-- [🔗 Visit my LinkedIn Profile](https://www.linkedin.com/in/hannasolomonov)
+### 🌱 Currently Learning
+- Advanced exploitation techniques  
+- Web and API security testing  
+- Writing responsible disclosure reports  
 
 ---
 
-### 📬 Contact / יצירת קשר
-- Email: hannasolo87@gmail.com 
-- LinkedIn: (https://www.linkedin.com/in/hannasolomonov/)  
-> Prefer responsible disclosure via email. I do not publish exploit code or target live systems.
+### 📫 Connect With Me
+📧 *Email:* [hannasolo87@gmail.com](mailto:hannasolo87@gmail.com)  
+💼 *LinkedIn:* [linkedin.com/in/hannasolomonov](https://www.linkedin.com/in/hannasolomonov)
 
 ---
 
-### ⚖ Ethics / אתיקה
-All projects here are for *educational and research purposes only* and performed in *isolated lab environments*. I follow responsible disclosure practices and avoid publishing any exploit code for real-world systems.
-
----
-
-#### 📎 Additional Notes
-You can also view my professional profile and resume here:  
-- [🔗 Visit my LinkedIn Profile](https://www.linkedin.com/in/hannasolomonov/)
-
-(All materials are for educational and professional presentation purposes only.)
+### 🧭 Quote I Live By
+> “Stay curious, stay ethical, and never stop learning.” 🧠
